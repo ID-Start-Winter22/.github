@@ -14,7 +14,7 @@
 
 [07-gymski](./07-gymski.png)
 
-[./08-barty](./08-barty.png)
+[08-barty](./08-barty.png)
 
 [09-soundbot](./09-soundbot.png)
 
